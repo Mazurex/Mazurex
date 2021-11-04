@@ -104,4 +104,4 @@ client.events = new Discord.Collection();
 // });
 
 //TOKEN
-    client.login('ODc0NzQ0NjQyNDUxNjczMTI4.YRLbbg.YOGGh2869PSLgmnC0OM4pKIdIaY');
+    client.login('TOKEN');
