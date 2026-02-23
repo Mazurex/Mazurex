@@ -10,6 +10,10 @@ I'm Maz, an 18 year old computer science student with a passion for software & h
 ### Frameworks & Libraries
 ![Frameworks and libraries](https://skillicons.dev/icons?i=express,nodejs,vitest,discordjs)
 
+
+### Software
+![Software](https://skillicons.dev/icons?i=vscode,clion,linux,mint,ubuntu)
+
 ## About me
 
 Primarily TypeScript developer working on backend systems & discord bots.
