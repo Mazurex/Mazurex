@@ -5,7 +5,7 @@ I'm Maz, an 18 year old computer science student with a passion for software & h
 ## Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,c,lua,rust,html,css)
+![Languages](https://skillicons.dev/icons?i=ts,js,c,lua,rust,html,css,php)
 
 ### Frameworks & Libraries
 ![Frameworks and libraries](https://skillicons.dev/icons?i=express,nodejs,vitest,discordjs)
